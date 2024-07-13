@@ -285,7 +285,7 @@ export const projects = [
     description:
       "Developed a responsive web-based password manager application using React and Tailwind CSS, featuring an intuitive UI for adding and saving usernames and passwords. Ensured optimal accessibility across devices, and integrated password autofill and copy-to-clipboard functionalities for enhanced user convenience.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/161320416/348466961-a2a40df5-347b-4b87-8be8-3d9ebea65d77.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240713T105700Z&X-Amz-Expires=300&X-Amz-Signature=8dc183328d6371844a3e69b091ef31275f19c9c9fd4ec459abe6d610f0560ea8&X-Amz-SignedHeaders=host&actor_id=161320416&key_id=0&repo_id=817717381",
+      "https://github.com/user-attachments/assets/2f20b1d1-fa02-4ed4-a35f-e3e8c499e975",
     tags: [
       "React Js",
       "Redux",
