@@ -78,11 +78,11 @@ const index = () => {
     return (
         <Container id="experience">
             <Wrapper>
-                <Title>Experience</Title>
+                {/* <Title>Experience</Title>
                 <Desc>
                     My work experience as a software engineer and working on different companies and projects.
-                </Desc>
-                <TimelineSection>
+                </Desc> */}
+                {/* <TimelineSection>
                     <Timeline>
                         {experiences.map((experience,index) => (
                             <TimelineItem>
@@ -97,7 +97,7 @@ const index = () => {
                         ))}
                     </Timeline>
 
-                </TimelineSection>
+                </TimelineSection> */}
             </Wrapper>
         </Container>
     )

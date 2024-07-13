@@ -7,7 +7,7 @@ export const SocialMediaIcons = styled.div`
   margin-top: 1rem;
 `;
 
-export const SocialMediaIcon = styled.a`
+export const SocialMediaIcon = styled.a` 
   display: inline-block;
   margin: 0 1rem;
   font-size: 1.5rem;
