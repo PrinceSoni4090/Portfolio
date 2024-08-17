@@ -264,7 +264,7 @@ export const projects = [
     description:
       "I developed Mystery Mail, a full-stack anonymous messaging web application using TypeScript, NextJS, and React. The project features secure authentication via NextAuth, with MongoDB managing scalable data storage for user messages. I integrated Zod for robust schema validation, ensuring data integrity. The application is styled with Shadcn for a modern and user-friendly interface, and it’s fully responsive across all devices and platforms.",
     image:
-      "https://github.com/user-attachments/assets/0b82189a-a8de-4930-aaf5-15d97926a018",
+      "https://github.com/PrinceSoni4090/mystrymessage/blob/22a353af73fe3458e5bc54d40544f546d26404b3/Screenshot%202024-08-17%20085351.png",
     tags: [
       "typeScript",
       "NextJS",
