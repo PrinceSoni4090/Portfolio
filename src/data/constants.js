@@ -258,6 +258,28 @@ export const education = [
 
 export const projects = [
   {
+    id: 8,
+    title: "Mystery Message",
+    date: "July 2024 - Aug 2024",
+    description:
+      "I developed Mystery Mail, a full-stack anonymous messaging web application using TypeScript, NextJS, and React. The project features secure authentication via NextAuth, with MongoDB managing scalable data storage for user messages. I integrated Zod for robust schema validation, ensuring data integrity. The application is styled with Shadcn for a modern and user-friendly interface, and it’s fully responsive across all devices and platforms.",
+    image:
+      "https://github.com/user-attachments/assets/0b82189a-a8de-4930-aaf5-15d97926a018",
+    tags: [
+      "typeScript",
+      "NextJS",
+      "React",
+      "Zod",
+      "MongoDB",
+      "Next Auth",
+      "Shadcn",          
+      
+    ],
+    category: "web app",
+    github: "https://github.com/PrinceSoni4090/mystrymessage",
+    webapp: "https://mystrymessage-a6je.vercel.app/",
+  },
+  {
     id: 9,
     title: "Post Space",
     date: "Jun 2024 - Jul 2024",
