@@ -286,7 +286,7 @@ export const projects = [
     description:
       "Developed a full-stack web application using React, leveraging Appwrite for backend services, database management, and robust authentication and authorization. Implemented state management with Redux Toolkit and integrated a real-time text editor for posts and blogs. Enhanced user experience with a dark mode/light mode toggle and created reusable components to promote code reusability and reduce duplication.",
     image:
-      "https://github.com/user-attachments/assets/0b82189a-a8de-4930-aaf5-15d97926a018",
+      "https://github.com/user-attachments/assets/817d3f54-3479-4847-b347-214ffd2475a8",
     tags: [
       "React Js",
       "Redux",
