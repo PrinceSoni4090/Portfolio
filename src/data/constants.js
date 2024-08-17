@@ -262,7 +262,7 @@ export const projects = [
     title: "Mystery Message",
     date: "July 2024 - Aug 2024",
     description:
-      "I developed Mystery Mail, a full-stack anonymous messaging web application using TypeScript, NextJS, and React. The project features secure authentication via NextAuth, with MongoDB managing scalable data storage for user messages. I integrated Zod for robust schema validation, ensuring data integrity. The application is styled with Shadcn for a modern and user-friendly interface, and it’s fully responsive across all devices and platforms.",
+      "Developed Mystery Mail, a full-stack anonymous messaging web application using TypeScript, NextJS, and React. The project features secure authentication via NextAuth, with MongoDB managing scalable data storage for user messages. I integrated Zod for robust schema validation, ensuring data integrity. The application is styled with Shadcn for a modern and user-friendly interface, and it’s fully responsive across all devices and platforms.",
     image:
       "https://github.com/user-attachments/assets/817d3f54-3479-4847-b347-214ffd2475a8",
     tags: [
@@ -299,6 +299,26 @@ export const projects = [
     category: "web app",
     github: "https://github.com/PrinceSoni4090/Post-Space",
     webapp: "https://post-space.vercel.app/",
+  },
+  {
+    id: 9,
+    title: "Music School UI",
+    date: "Jul 2024 - Jul 2024",
+    description:
+      "Developed the frontend UI using NextJS and React, creating responsive layouts with a modern, visually appealing interface. I utilized Aceternity UI and Shadcn to enhance the design and ensure a fully responsive experience across all devices and platforms.",
+    image:
+      "https://github.com/user-attachments/assets/9d32a9d1-3fa9-465b-af55-1e13b5659266",
+    tags: [
+      "NextJS",
+      "React",
+      "Shadcn",
+      "Aceternity UI",         
+      
+      
+    ],
+    category: "web app",
+    github: "https://github.com/PrinceSoni4090/Portfolio",
+    webapp: "https://nextjsmusicproject.vercel.app/",
   },
   {
     id: 9,
