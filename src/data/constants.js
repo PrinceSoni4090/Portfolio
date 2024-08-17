@@ -6,10 +6,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Hi, I'm Prince Soni, a Full Stack Developer skilled in Next JS, React JS, typeScript. My expertise includes building responsive, high-quality web applications and managing databases. I have a strong foundation in deploying live projects, writing clean code, and following best practices. Currently, I’m seeking new opportunities to contribute to a dynamic team and deliver outstanding web solutions.",
   github: "https://github.com/PrinceSoni4090",
   resume:
-    "https://docs.google.com/document/d/1oJF7dmFuL2tRRuUBh_Q4Ll0EqwFRtwwk3BNyQ4B-Yno/edit?usp=sharing",
+    "https://drive.google.com/file/d/1jugnmvaCVY6sn1YPVmFIo-OMqRAUxzWH/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prince-soni-102682270",
   
 };
