@@ -9,7 +9,7 @@ export const Bio = {
     "Hi, I'm Prince Soni, a Full Stack Developer skilled in Next JS, React JS, typeScript. My expertise includes building responsive, high-quality web applications and managing databases. I have a strong foundation in deploying live projects, writing clean code, and following best practices. Currently, I’m seeking new opportunities to contribute to a dynamic team and deliver outstanding web solutions.",
   github: "https://github.com/PrinceSoni4090",
   resume:
-    "https://drive.google.com/file/d/1jugnmvaCVY6sn1YPVmFIo-OMqRAUxzWH/view?usp=sharing",
+    "https://drive.google.com/file/d/16TiqhbGnCh3veV7H4HZuxFZ2V6Wo82AN/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prince-soni-102682270",
   
 };
@@ -257,6 +257,28 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 8,
+    title: "Cloudify Media",
+    date: "Aug 2024 - Aug 2024",
+    description:
+      "I developed an AI SaaS tool named CloudifyMedia focused on media compression and content-aware cropping. The tool features AI-powered image cropping tailored to various social media formats, ensuring optimal visual presentation. I utilized Prisma ORM and Neon DB for efficient database management and querying, enhancing performance and scalability. Daisy UI was incorporated to maintain consistent and scalable design components, and a fully responsive design was implemented to ensure seamless functionality across all devices and platforms.",
+    image:
+      "https://github.com/user-attachments/assets/42bca7a2-0f42-40a5-9f6e-2658e641b853",
+    tags: [
+      "typeScript",
+      "NextJS",
+      "React",
+      "Prisma",
+      "NeonDB",
+      "Clerk",
+      "Daisy UI",          
+      
+    ],
+    category: "Saas tool",
+    github: "https://github.com/PrinceSoni4090/saas",
+    webapp: "https://saas-six-iota.vercel.app/home",
+  },
   {
     id: 8,
     title: "Mystery Message",
