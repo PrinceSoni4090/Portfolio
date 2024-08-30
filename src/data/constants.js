@@ -259,7 +259,7 @@ export const education = [
 export const projects = [
   {
     id: 8,
-    title: "Cloudify Media",
+    title: "Cloudify Media - AI Saas tool",
     date: "Aug 2024 - Aug 2024",
     description:
       "I developed an AI SaaS tool named CloudifyMedia focused on media compression and content-aware cropping. The tool features AI-powered image cropping tailored to various social media formats, ensuring optimal visual presentation. I utilized Prisma ORM and Neon DB for efficient database management and querying, enhancing performance and scalability. Daisy UI was incorporated to maintain consistent and scalable design components, and a fully responsive design was implemented to ensure seamless functionality across all devices and platforms.",
